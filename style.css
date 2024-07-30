@@ -1,0 +1,35 @@
+table,tr,th{
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+}
+table{
+    width: 50%;
+    margin-left: 300px;
+}
+.section1{
+    height: 100px;
+    background-color: blue;
+}
+.section2{
+    height: 350px;
+    padding-top: 50px;
+    background-color: darkkhaki;
+}
+.section3{
+    background-color: burlywood;
+    padding: 50px;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+form,label,input{
+    display: block;
+}
+form{
+    border: 1px solid black;
+    width: 30%;
+    padding: 30px;
+    margin-left: 500px;
+}
